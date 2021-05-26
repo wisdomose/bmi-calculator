@@ -1,8 +1,8 @@
-#simple BMI calculator
+# simple BMI calculator
 
 the inspiration for this project came from a post i saw on instagram. hope you find it useful
 
-######technologies used
+###### technologies used
 - react
 - typescript
 - tailwind ui
