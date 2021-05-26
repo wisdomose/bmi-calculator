@@ -10,6 +10,6 @@ the inspiration for this project came from a post i saw on instagram. hope you f
 
 follow me on 
 - [github](www.github.com/wisdomose/)
-- [instagram](www.instagram/dev_wisdom_ose/)
 - [facebook](www.facebook.com/wisdom.iyoriobhe.7/)
 - [twitter](www.twitter.com/Osenemendia?s=09/)
+- [instagram](www.instagram.com/dev_wisdom_ose/)
